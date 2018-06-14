@@ -1,0 +1,403 @@
+section p{
+    color: #fff;
+}
+a{
+    color: #644bfd;
+}
+.page{
+    background: #1b1e2f;
+}
+.textarea {
+    border: solid 1px #505575;
+    background: transparent;
+    color: #fff;
+}
+.card-body h2{
+    color: #fff;
+}
+.text-bezh{
+    color: #f4e0a5;
+}
+.text-orange{
+    color: #ff835a;
+}
+.hamburger .line{
+    background-color: #ecf0f1;
+}
+.navbar-collapse.collapse.show .collapse_li li.nav-item a{
+    color: #fff;
+}
+.collapse_li .nav-item.show,
+.collapse_li .nav-item.active{
+    border: solid 2px #644bfd !important;
+}
+nav.navbar .dropdown-menu a:hover,
+.navbar-collapse.collapse.show .collapse_li li.nav-item:hover{
+    background: transparent;
+    border-color: #53d696;
+}
+.navbar-collapse.collapse.show .collapse_li li.nav-item{
+    border: solid 2px #fff;
+}
+nav.navbar .dropdown-menu a{
+    background: transparent;
+    border: solid 2px #282959;
+    color: #ccc !important;
+}
+nav.navbar{
+    background: #1e243c;
+}
+.nav-menu .nav-item a.nav-link.active,
+.pamm-header .form-group p{
+    color: #fff;
+}
+.nav-menu .nav-item a.nav-link{
+    color: #505575;
+}
+.card{
+    background: #1e243c;
+}
+.card-header{
+    color: #fff;
+    background: rgba(41,42,89,0.81);
+    background: -moz-linear-gradient(top, rgba(41,42,89,0.81) 0%, rgba(48,49,89,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(41,42,89,0.81)), color-stop(100%, rgba(48,49,89,1)));
+    background: -webkit-linear-gradient(top, rgba(41,42,89,0.81) 0%, rgba(48,49,89,1) 100%);
+    background: -o-linear-gradient(top, rgba(41,42,89,0.81) 0%, rgba(48,49,89,1) 100%);
+    background: -ms-linear-gradient(top, rgba(41,42,89,0.81) 0%, rgba(48,49,89,1) 100%);
+    background: linear-gradient(to bottom, rgba(41,42,89,0.81) 0%, rgba(48,49,89,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#292a59', endColorstr='#303159', GradientType=0 );
+}
+.card_acc p{
+    color: #f4e0a5;
+}
+input.form-control{
+    border: solid 1px #505575;
+    background: transparent;
+    color: #fff;
+}
+select.form-control{
+    border: solid 1px #505575;
+    color: #fff;
+}
+input.form-control:focus,
+select.form-control:focus{
+    background-color: transparent;
+}
+label{
+    color: #fff;
+}
+.hr {
+    border-top: 1px solid #505575;
+    opacity: 0.3;
+}
+.hr-deposit{
+    border-top: 1px solid #505575;
+    opacity: 0.3;
+}
+.btn, .btn-border-o:before, .btn-border-o:after, .btn-transparent:before, .btn-transparent:after{
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.btn-border-o.btn-white-p {
+    border: solid 1px #fff;
+    color: #fff;
+    background: transparent;
+}
+.btn-border-o {
+    background-color: #53d696;
+    border: 1px solid transparent;
+    color: #1e243c;
+    width: 100%;
+}
+.btn-border-o.btn-green:before, .btn-border-o.btn-green:after {
+    border-color: #53d696;
+}
+.btn-border-o.btn-green:hover {
+    color: #53d696;
+    background-color: transparent;
+}
+.btn-transparent {
+    border: solid 1px #644bfd;
+    background: transparent;
+}
+.btn-transparent:before, .btn-transparent:after {
+    border-color: #53d696;
+}
+.btn-transparent:hover {
+    background-color: transparent;
+}
+.btn-border-o.btn-orange-p {
+    border: solid 1px #ff835a;
+    color: #ff835a;
+    background: transparent;
+}
+.btn-border-o.btn-green.btn-orange-p:hover {
+    border: solid 1px transparent;
+    color: #fff;
+    background: #ff835a;
+}
+.btn-border-o.btn-green.btn-orange-p:before, .btn-border-o.btn-green.btn-orange-p:after {
+    border-color: #fff;
+}
+.btn-border-o.btn-violet-o {
+    border: solid 1px transparent;
+    color: #fff;
+    background: #644bfd;
+}
+.btn-border-o.btn-green.btn-violet-o:hover {
+    border: solid 1px #644bfd;
+    color: #644bfd;
+    background: transparent;
+}
+.btn-border-o.btn-green.btn-violet-o:before, .btn-border-o.btn-green.btn-violet-o:after {
+    border-color: #644bfd;
+}
+/*checkbox*/
+.input-switch .input + .switch{
+    background-color: #999;
+}
+.input-switch .input:checked + .switch::before {
+    background-color: #52d595;
+}
+.input-switch .input:checked + .switch::after {
+    background-color: #289660;
+}
+.input-switch .input:checked + .switch > span.on {
+    color: #289660 !important;
+}
+.input-switch .input:checked + .switch > span.off{
+    color: #fff !important;
+}
+.switch > span.off{
+    color: #de3636 !important;
+}
+.input-switch .input + .switch::before {
+    background-color: #292b2ca6;
+}
+.input-switch .input + .switch::after {
+    background-color: #b7b7b7;
+}
+/*end checkbox*/
+input.control-modal,
+.form_modal button{
+    display: block;
+    border-radius: 4px;
+    border: solid 1px #cccccc;
+    max-width: 246.77px;
+    margin: 0 auto 8px;
+    padding: 12px 16px;
+}
+.form_modal{
+    margin-bottom: 32px;
+}
+/*END MODAL STYLE*/
+
+.input-group-addon {
+    border: solid 1px #505575;
+    color: #fff;
+}
+
+span.green {
+    color: #44b37d;
+}
+
+.table-bordered td, .table-bordered th {
+    border: solid 1px #50557557;
+}
+.table thead th {
+    border-bottom: solid 1px #50557557;
+}
+
+
+.btn-border-o.btn-orange-p {
+    border: solid 1px #ff835a;
+    color: #ff835a;
+    background: transparent;
+}
+.btn-border-o.btn-green.btn-orange-p:hover {
+    border: solid 1px transparent;
+    color: #fff;
+    background: #ff835a;
+}
+.btn-border-o.btn-green.btn-orange-p:before, .btn-border-o.btn-green.btn-orange-p:after {
+    border-color: #fff;
+}
+.btn-border-o.btn-violet-o {
+    border: solid 1px transparent;
+    color: #fff;
+    background: #644bfd;
+}
+.btn-border-o.btn-green.btn-violet-o:hover {
+    border: solid 1px #644bfd;
+    color: #644bfd;
+    background: transparent;
+}
+.btn-border-o.btn-green.btn-violet-o:before, .btn-border-o.btn-green.btn-violet-o:after {
+    border-color: #644bfd;
+}
+.row.border {
+    border-top: solid 1px #f0f0f0;
+    border-bottom: solid 1px #f0f0f0;
+}
+span.violet {
+    color: #644bfd;
+}
+span.green {
+    color: #44b37d;
+}
+span.orange {
+    color: #ff835a;
+}
+.alert p {
+    color: #ff835a;
+}
+.attention p {
+    color: #1e243c;
+}
+.attention span {
+    color: #505575;
+}
+.table-bordered td, .table-bordered th {
+    border: solid 1px #505575;
+}
+.table thead th {
+    border-bottom: solid 1px #505575;
+}
+.card-table table tbody td{
+    border-right: solid 1px #50557557;
+    background-color: #1e243c;
+}
+.card-table table thead tr th{
+    border: solid 1px #50557557;
+    background-color: #282959;
+}
+table{
+    color: #fff;
+}
+.pamm-header table.table_commision th{
+    color: #fff;
+}
+.form-group label.label {
+  color: #cccccc;
+}
+.nav-tabs .nav-link,
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    color: #fff;
+    background-color: transparent;
+}
+.nav-tabs{
+    background-color: #282959;
+}
+.nav-tabs .nav-link:after{
+    background-color: #644bfd;
+}
+.circle .modal-content {
+    background: transparent;
+    border: solid 2px #ffffff;;
+}
+.circle p {
+    color: #ffffff;
+}
+.squaredTwo label {
+    background-color: #1e243c;
+}
+.squaredTwo {
+    background: #1e243c;
+}
+@media(max-width: 768px){
+    .pamm-header .settings{
+        border-bottom: 1px solid #505575;
+    }
+}
+.pamm-header table.table_commision tbody tr th:nth-child(1) span{
+    border: solid 1px #505575;
+}
+.pamm_hr{
+    border: 1px solid #505575;
+}
+.input-group-addon {
+    border: solid 1px #505575;
+    background: transparent;
+    color: #fff;
+}
+input.control-modal,
+.form_modal button{
+    border: solid 1px #cccccc;
+}
+.input-group-addon {
+    border: solid 1px #505575;
+    background: transparent;
+    color: #fff;
+}
+.form-group label {
+    color: #fff;
+}
+#fl_nm{
+    color:#505575;
+}
+.fl_upld label{
+    background: transparent;
+    border: solid 1px #cccccc;
+    color: #fff;
+}
+.modal-body h3,
+.modal-body h4,
+.modal-body h2,
+.modal-body p{
+    color: #1e243c;
+}
+/*.transparent-modal*/
+.transparent-modal .modal-content {
+    border: 2px solid #fff;
+    background: transparent;
+}
+.transparent-modal .modal-body h3,
+.transparent-modal  .modal-body h4,
+.transparent-modal  .modal-body h2, .modal-body p,
+.attention p,
+.attention span {
+    color: #fff;
+}
+.transparent-modal .close span {
+        color: #fff;
+}
+.transparent-modal .table-bordered td, 
+.transparent-modal .table-bordered th {
+    border: 1px solid rgba(255,255,255,.7);
+}
+.transparent-modal table,
+.transparent-modal th {
+    color: #fff;
+}
+.transparent-modal .table .table {
+    background: transparent;
+}
+.transparent-modal .btn.btn-transparent{
+    color: #644bfd;
+}
+.img-qr{
+    background: #fff;
+}
+.pamm-s .textarea {
+    border-color: #505575;
+}
+.pamm-s .textarea:focus {
+    border-color: transparent;
+    outline: #796AEE auto 5px;
+    outline-color: #796AEE;
+    color: #fff;
+}
+.pamm-s .form-control {
+    color: #fff;
+}
+@media(max-width: 992px) {
+    .paddings:nth-of-type(1):after {
+        background: #505575;
+    }
+}
+@media(min-width: 992px) {
+    .pamm-s .paddings:nth-of-type(2):after {
+        background: #505575;
+    }
+}
